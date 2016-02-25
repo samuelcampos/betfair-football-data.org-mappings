@@ -1,0 +1,14 @@
+# Eclipse: All project files
+.classpath
+.project
+.externalToolBuilders/
+.settings/
+.buildpath
+
+# IntelliJ: All project files
+.idea/
+*.iml
+*.iws
+
+# Vim swap files
+*.swp

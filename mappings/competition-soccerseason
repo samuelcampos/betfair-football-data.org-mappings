@@ -1,0 +1,128 @@
+[
+    {
+        "betfair": {
+            "competitionId": 59
+        },
+        "football-data": {
+            "league": "BL1",
+            "seasons": [394]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 61
+        },
+        "football-data": {
+            "league": "BL2",
+            "seasons": [395]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 55
+        },
+        "football-data": {
+            "league": "FL1",
+            "seasons": [396]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 57
+        },
+        "football-data": {
+            "league": "FL2",
+            "seasons": [397]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 57
+        },
+        "football-data": {
+            "league": "FL2",
+            "seasons": [397]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 31
+        },
+        "football-data": {
+            "league": "PL",
+            "seasons": [398]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 117
+        },
+        "football-data": {
+            "league": "PD",
+            "seasons": [399]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 119
+        },
+        "football-data": {
+            "league": "SD",
+            "seasons": [400]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 81
+        },
+        "football-data": {
+            "league": "SA",
+            "seasons": [401]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 99
+        },
+        "football-data": {
+            "league": "PPL",
+            "seasons": [402]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 158146
+        },
+        "football-data": {
+            "league": "BL3",
+            "seasons": [403]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 228
+        },
+        "football-data": {
+            "league": "CL",
+            "seasons": [405]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 35
+        },
+        "football-data": {
+            "league": "EL1",
+            "seasons": [425]
+        }
+    },
+    {
+        "betfair": {
+            "competitionId": 71
+        },
+        "football-data": {
+            "league": "DED",
+            "seasons": [404]
+        }
+    }
+]
